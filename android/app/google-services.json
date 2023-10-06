@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1072758228223",
+    "project_id": "thin-yuu",
+    "storage_bucket": "thin-yuu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072758228223:android:d74bad1e0ca5d8661cb8ca",
+        "android_client_info": {
+          "package_name": "com.example.thin_yuu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072758228223-4bgtnlevm3rqjjpvu58ol1n2uffmgs9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASbTqPsEmH84x-q3Cj3Vx3BiERJSOl45I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072758228223-4bgtnlevm3rqjjpvu58ol1n2uffmgs9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
